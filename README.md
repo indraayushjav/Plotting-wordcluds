@@ -1,4 +1,4 @@
-# Plotting-wordcluds
+# Plotting-wordclouds
 
 ## Project Overview
 
