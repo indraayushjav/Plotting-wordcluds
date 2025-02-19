@@ -62,6 +62,8 @@ plt.xticks(rotation=90)
 
 plt.show()
 ```
+<img width="604" alt="bar plt" src="https://github.com/user-attachments/assets/8eddcce6-caa2-49a3-babd-857ffccf3eb9" />
+
 ![top50](bar plt.png)
 
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
